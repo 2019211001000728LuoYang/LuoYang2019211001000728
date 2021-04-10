@@ -10,7 +10,7 @@
     </servlet>
     <servlet>
         <servlet-name>LifeCycleServlet</servlet-name>
-        <servlet-class>com.week3.demo.LifeCycleServlet</servlet-class>
+        <servlet-class>com.LuoYang.Week3.demo.LifeCycleServlet</servlet-class>
     </servlet>
     <!--automatic code-->
     <!--<servlet>

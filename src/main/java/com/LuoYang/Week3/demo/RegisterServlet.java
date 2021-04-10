@@ -1,7 +1,12 @@
 package com.LuoYang.Week3.demo;
 
+import javax.servlet.*;
+import javax.servlet.http.*;
+import java.io.IOException;
+import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebInitParam;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -11,8 +16,10 @@ import java.io.PrintWriter;
 import java.sql.*;
 import java.text.SimpleDateFormat;
 
-@WebServlet(name = "RegisterServlet", value = "/RegisterServlet")
-//automatic -new --> servlet
+@WebServlet(
+        urlPatterns = {"/register"}
+)
+
 public class RegisterServlet extends HttpServlet {
     Connection con=null;
     @Override
