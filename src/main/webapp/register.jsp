@@ -9,13 +9,12 @@
 This is my JSP page.<br>
 <h1>New User Registration</h1>
 
-<form method="post" action="/2019211001000704Luoyang_war_exploded/register"><!-- within doPost() in servlet-->
-    username : <input type="text" name="username" required><br/>
-    password : <input type="password" name="password" required><br/>
-    email : <input type="email" name="email" required><br/>
-    birthday : <input type="date" name="date"required><br/>
-    <input name="sex" type="radio" value="Male"/>Male
-    <input name="sex" type="radio" value="Female"/>Female<br/>
-    <input name="b1" type="submit" id="b1" value="Register" required><br/>
+<form method="post" action="register"><!-- within doPost() in servlet-->
+    Username : <input type="text" name="username" required/><br/>
+    Password : <input type="password" name="password" required minlength="8"/><br/>
+    Email : <input type="email" name="email" required/><br/>
+    Gender: <input type="radio" name="gender" value="male">Male<input type="radio" name="gender" value="female">Female<br/>
+    Date of Birth : <input type="text name=" name="birthDate"><br/>
+    <input type="submit" value="Register"/><br/>
 </form>
 <%@include file="footer.jsp"%>
