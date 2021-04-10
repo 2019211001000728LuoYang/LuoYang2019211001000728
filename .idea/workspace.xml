@@ -9,9 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week5 Commit">
+    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week4 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/week3/demo/LifeCycleServlet.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +94,7 @@
       <workItem from="1617626861263" duration="324000" />
       <workItem from="1618045431545" duration="40000" />
       <workItem from="1618045487320" duration="1090000" />
+      <workItem from="1618046665397" duration="914000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1617192922772</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618045161552</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW Week4 Commit">
+      <created>1618046773700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618046773700</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +160,7 @@
     <MESSAGE value="week5" />
     <MESSAGE value="HW Week3 Commit" />
     <MESSAGE value="HW Week5 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW Week5 Commit" />
+    <MESSAGE value="HW Week4 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week4 Commit" />
   </component>
 </project>
