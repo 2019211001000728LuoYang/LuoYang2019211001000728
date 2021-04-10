@@ -10,16 +10,8 @@
     </servlet>
     <servlet>
         <servlet-name>LifeCycleServlet</servlet-name>
-        <servlet-class>com.week3.demo.LifeCycleServlet</servlet-class>
+        <servlet-class>com.LuoYang.Week3.demo.LifeCycleServlet</servlet-class>
     </servlet>
-    <servlet>
-        <servlet-name>JDBCDemoServlet</servlet-name>
-        <servlet-class>com.LuoYang.Week4.demo.JDBCDemoServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>JDBCDemoServlet</servlet-name>
-        <url-pattern>/jdbc</url-pattern>
-    </servlet-mapping>
     <!--automatic code-->
     <!--<servlet>
         <servlet-name>RegisterServlet</servlet-name>
