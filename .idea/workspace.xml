@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="2019211001000728LuoYang:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week4 Commit">
-      <change beforePath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/week3/demo/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/week3/demo/RegisterServlet.class" afterDir="false" />
+    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week5 Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/week3/demo/LifeCycleServlet.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +44,6 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="2019211001000728LuoYang:war exploded">
@@ -57,7 +52,9 @@
           </settings>
         </artifact>
       </deployment>
-      <server-settings />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1162a8f8-f122-4bd6-ad11-b2b4628ccc9c" />
+      </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
@@ -96,6 +93,8 @@
       <updated>1617192858567</updated>
       <workItem from="1617192861075" duration="620000" />
       <workItem from="1617626861263" duration="324000" />
+      <workItem from="1618045431545" duration="40000" />
+      <workItem from="1618045487320" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1617192922772</created>
@@ -111,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617633381824</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW Week3 Commit">
+      <created>1618044645552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618044645552</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW Week5 Commit">
+      <created>1618045161552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618045161552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="week5" />
-    <option name="LAST_COMMIT_MESSAGE" value="week5" />
+    <MESSAGE value="HW Week3 Commit" />
+    <MESSAGE value="HW Week5 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week5 Commit" />
   </component>
 </project>
