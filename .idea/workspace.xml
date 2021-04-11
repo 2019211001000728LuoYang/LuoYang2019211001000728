@@ -9,13 +9,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week4 Commit">
+    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week5 Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week3/demo/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week3/demo/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week5/demo/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week5/demo/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/LuoYang/Week3/demo/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/LuoYang/Week3/demo/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/LuoYang/Week4/demo/ConfigDemoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/LuoYang/Week4/demo/ConfigDemoServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +59,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="2019211001000728LuoYang:war exploded">
@@ -95,6 +128,9 @@
       <workItem from="1618045431545" duration="40000" />
       <workItem from="1618045487320" duration="1090000" />
       <workItem from="1618046665397" duration="914000" />
+      <workItem from="1618050270307" duration="227000" />
+      <workItem from="1618055477353" duration="76000" />
+      <workItem from="1618119921608" duration="15442000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1617192922772</created>
@@ -131,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618046773700</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW Week5 Commit">
+      <created>1618050472892</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618050472892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,8 +202,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="week5" />
     <MESSAGE value="HW Week3 Commit" />
-    <MESSAGE value="HW Week5 Commit" />
     <MESSAGE value="HW Week4 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW Week4 Commit" />
+    <MESSAGE value="HW Week5 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week5 Commit" />
   </component>
 </project>

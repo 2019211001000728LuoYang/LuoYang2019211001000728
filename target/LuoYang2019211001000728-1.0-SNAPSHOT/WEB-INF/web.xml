@@ -15,11 +15,11 @@
     <!--automatic code-->
     <!--<servlet>
         <servlet-name>RegisterServlet</servlet-name>
-        <servlet-class>com.dabing.week3.demo.RegisterServlet</servlet-class>
+        <servlet-class>com.LuoYang.week3.demo.RegisterServlet</servlet-class>
     </servlet>-->
     <!--<servlet>
         <servlet-name>ConfigDemoServlet</servlet-name>
-        <servlet-class>com.dabing.week4.demo.ConfigDemoServlet</servlet-class>
+        <servlet-class>com.LuoYang.week4.demo.ConfigDemoServlet</servlet-class>
     </servlet>-->
 
     <servlet-mapping>
@@ -40,7 +40,7 @@
         <url-pattern>/config</url-pattern>
     </servlet-mapping>-->
     <!-- x=5,a=x so we can say a=5
-    so /hello==com.dabing.week2.demo.HelloWorldservlet
+    so /hello==com.LuoYang.week2.demo.HelloWorldServlet
     -->
     <context-param>
         <param-name>driver</param-name>
