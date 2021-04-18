@@ -17,8 +17,11 @@
         ResultSet rs= (ResultSet) request.getAttribute("rsname");
         if(rs==null){
     %>
+
     <tr><td>No Data !!!</td></tr>
+
     <%}else{
+
         while(rs.next()){
             int id=rs.getInt("id");
             String username=rs.getString("username");

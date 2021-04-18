@@ -7,6 +7,11 @@
 --%>
 <%@include file="header.jsp"%>
 <h1>Login</h1>
+<%
+    if (!(request.getAttribute("message")==null)){
+        out.println(request.getAttribute("message"));
+    }
+%>
 <form method="post" action="login">
     <table>
         <tr> <td>Username:</td> <td><input type="text" name="Username" required><br/></td></tr>
