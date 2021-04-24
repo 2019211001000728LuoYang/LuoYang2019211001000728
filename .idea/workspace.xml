@@ -9,10 +9,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="HW Week7 Commit">
+    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week8 Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000728LuoYang_war_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/controller/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/controller/UpdateUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/updateUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/LuoYang/controller/LogoutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/LuoYang/controller/UpdateUserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/LuoYang/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/classes/com/LuoYang/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/views/updateUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/views/userInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/LuoYang/controller/LogoutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/LuoYang/controller/UpdateUserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/LuoYang/dao/IUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/LuoYang/dao/UserDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week5/demo/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week5/demo/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/dao/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userInfo.jsp" afterDir="false" />
@@ -25,20 +41,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Jsp File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="JspContextManager">
-    <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userInfo.jsp" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -47,7 +51,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectId" id="1qWQRLsU3eDM00p4cliCjHmTBdQ" />
+  <component name="ProjectId" id="1rcR79bmlflpqppmmxc023A7bpV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,37 +59,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp\WEB-INF\views" />
-      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\java\com\LuoYang\dao" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp" />
-    </key>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/2019211001000728LuoYang_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="2019211001000728LuoYang:war exploded">
           <settings>
@@ -94,13 +88,61 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="1162a8f8-f122-4bd6-ad11-b2b4628ccc9c" />
+        <option name="BASE_DIRECTORY_NAME" value="29d963bc-0b01-4d67-bacd-08f7bd5d9df0" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58002" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -127,82 +169,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="321b1962-f0fb-4dcb-bf32-1870b92f3507" name="Default Changelist" comment="" />
-      <created>1617192858567</created>
+      <changelist id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="" />
+      <created>1619272663488</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617192858567</updated>
-      <workItem from="1617192861075" duration="620000" />
-      <workItem from="1617626861263" duration="324000" />
-      <workItem from="1618045431545" duration="40000" />
-      <workItem from="1618045487320" duration="1090000" />
-      <workItem from="1618046665397" duration="914000" />
-      <workItem from="1618050270307" duration="227000" />
-      <workItem from="1618055477353" duration="76000" />
-      <workItem from="1618119921608" duration="16129000" />
-      <workItem from="1618664202654" duration="2576000" />
-      <workItem from="1618722620895" duration="2698000" />
-      <workItem from="1619252003677" duration="5497000" />
-      <workItem from="1619257956834" duration="891000" />
-      <workItem from="1619258860376" duration="8957000" />
+      <updated>1619272663488</updated>
+      <workItem from="1619272665093" duration="551000" />
+      <workItem from="1619273225797" duration="1417000" />
     </task>
-    <task id="LOCAL-00001" summary="1">
-      <created>1617192922772</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1617192922772</updated>
-    </task>
-    <task id="LOCAL-00002" summary="week5">
-      <created>1617633381824</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1617633381824</updated>
-    </task>
-    <task id="LOCAL-00003" summary="HW Week3 Commit">
-      <created>1618044645552</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1618044645552</updated>
-    </task>
-    <task id="LOCAL-00004" summary="HW Week5 Commit">
-      <created>1618045161552</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1618045161552</updated>
-    </task>
-    <task id="LOCAL-00005" summary="HW Week4 Commit">
-      <created>1618046773700</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1618046773700</updated>
-    </task>
-    <task id="LOCAL-00006" summary="HW Week5 Commit">
-      <created>1618050472892</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1618050472892</updated>
-    </task>
-    <task id="LOCAL-00007" summary="HW Week6 Commit">
-      <created>1618154185724</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1618154185724</updated>
-    </task>
-    <task id="LOCAL-00008" summary="HW Week7 Commit">
-      <created>1618725208268</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1618725208268</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,13 +187,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -227,13 +195,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1" />
-    <MESSAGE value="week5" />
-    <MESSAGE value="HW Week3 Commit" />
-    <MESSAGE value="HW Week4 Commit" />
-    <MESSAGE value="HW Week5 Commit" />
-    <MESSAGE value="HW Week6 Commit" />
-    <MESSAGE value="HW Week7 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW Week7 Commit" />
+    <MESSAGE value="HW Week8 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week8 Commit" />
   </component>
 </project>
