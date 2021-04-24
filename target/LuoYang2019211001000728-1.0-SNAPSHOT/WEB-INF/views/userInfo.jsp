@@ -30,7 +30,7 @@
 <%@include file="footer.jsp"%>
 =======
 <%
-    User u=(User)request.getAttribute("user");
+    User u1=(User)request.getAttribute("user");
 %>
 <table>
     <tr><td>Username:</td><td><%=u.getUsername()%></td></tr>
