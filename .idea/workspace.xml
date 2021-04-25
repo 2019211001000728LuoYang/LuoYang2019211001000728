@@ -10,9 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week8 Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/classes/com/example/LuoYang2019211001000728/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/classes/com/example/LuoYang2019211001000728/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week3/demo/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/Week3/demo/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/LuoYang2019211001000728/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/LuoYang2019211001000728/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/LuoYang2019211001000728/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/LuoYang2019211001000728/HelloServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +51,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp" />
+    </key>
+  </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.63">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/2019211001000728LuoYang_war_exploded3/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -329,7 +355,10 @@
       <workItem from="1619273225797" duration="1796000" />
       <workItem from="1619275046526" duration="1099000" />
       <workItem from="1619276158397" duration="599000" />
-      <workItem from="1619354939735" duration="1053000" />
+      <workItem from="1619354939735" duration="1614000" />
+      <workItem from="1620556665475" duration="3167000" />
+      <workItem from="1620571041085" duration="588000" />
+      <workItem from="1620639849694" duration="6115000" />
     </task>
     <task id="LOCAL-00001" summary="HW Week8 Commit">
       <created>1619274649511</created>
@@ -352,7 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619276739541</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW Week8 Commit">
+      <created>1619356119006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619356119006</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HW Week8 Commit">
+      <created>1619356534153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619356534153</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

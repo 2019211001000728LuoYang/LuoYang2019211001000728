@@ -12,7 +12,6 @@
         out.println(request.getAttribute("message"));
     }
 %>
-<<<<<<< HEAD
 <%
     //read cookies
     Cookie[] allcookies=request.getCookies(); //give all cookies

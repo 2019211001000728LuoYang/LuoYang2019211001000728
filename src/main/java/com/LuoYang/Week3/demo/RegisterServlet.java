@@ -24,7 +24,8 @@ public class RegisterServlet extends HttpServlet {
     Connection con=null;
     @Override
     public void init() throws ServletException {
-        String driver=getServletConfig().getServletContext().getInitParameter("driver");
+        super.init();
+        /*String driver=getServletConfig().getServletContext().getInitParameter("driver");
         String url=getServletConfig().getServletContext().getInitParameter("url");
         String username=getServletConfig().getServletContext().getInitParameter("username");
         String password=getServletConfig().getServletContext().getInitParameter("password");
@@ -34,12 +35,13 @@ public class RegisterServlet extends HttpServlet {
             System.out.println("init()-->"+con);
         } catch (ClassNotFoundException | SQLException e) {
             e.printStackTrace();
-        }
+        }*/
+        con=(Connection) getServletContext().getAttribute("con");
     }
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
+        request.getRequestDispatcher("WEB-INF/views/register.jsp").forward(request,response);
     }
 
     @Override
