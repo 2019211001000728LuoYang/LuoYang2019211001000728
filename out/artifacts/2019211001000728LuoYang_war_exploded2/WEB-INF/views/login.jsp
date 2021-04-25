@@ -12,6 +12,7 @@
         out.println(request.getAttribute("message"));
     }
 %>
+<<<<<<< HEAD
 <%
     //read cookies
     Cookie[] allcookies=request.getCookies(); //give all cookies
@@ -39,4 +40,13 @@
     </table>
 </form>
 <%@include file="footer.jsp"%>
-
+=======
+<form method="post" action="login">
+    <table>
+        <tr> <td>Username:</td> <td><input type="text" name="Username" required><br/></td></tr>
+        <tr> <td>password:</td> <td><input type="password" name="password" required minlength="8"><br/></td></tr>
+        <tr> <td></td><td><input type="submit" value="Login"/></td>  </tr>
+    </table>
+</form>
+<%@include file="footer.jsp"%>
+>>>>>>> github/master

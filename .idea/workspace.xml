@@ -10,10 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week8 Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000728LuoYang_war_exploded3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userInfo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/views/userInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LuoYang2019211001000728-1.0-SNAPSHOT/WEB-INF/views/userInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.63">
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -329,7 +328,8 @@
       <workItem from="1619272665093" duration="551000" />
       <workItem from="1619273225797" duration="1796000" />
       <workItem from="1619275046526" duration="1099000" />
-      <workItem from="1619276158397" duration="570000" />
+      <workItem from="1619276158397" duration="599000" />
+      <workItem from="1619354939735" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="HW Week8 Commit">
       <created>1619274649511</created>
@@ -345,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619275815936</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW Week8 Commit">
+      <created>1619276739541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619276739541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
