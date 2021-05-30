@@ -9,21 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week11 Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001000728LuoYang_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001000728LuoYang_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week12 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019211001000728LuoYang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001000728LuoYang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/controller/ProductListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/controller/ProductListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LuoYang/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LuoYang/dao/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productDetails.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/productDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/productDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/shop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +365,9 @@
       <workItem from="1621133333062" duration="3814000" />
       <workItem from="1621754461972" duration="2175000" />
       <workItem from="1621756666295" duration="232000" />
-      <workItem from="1621756912292" duration="3339000" />
+      <workItem from="1621756912292" duration="4409000" />
+      <workItem from="1621761375731" duration="434000" />
+      <workItem from="1622351709356" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="HW Week8 Commit">
       <created>1619274649511</created>
@@ -410,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621137352984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW Week12 Commit">
+      <created>1621760474818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621760474818</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +432,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW Week8 Commit" />
     <MESSAGE value="HW Week11 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW Week11 Commit" />
+    <MESSAGE value="HW Week12 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week12 Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
