@@ -9,17 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week13 Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/validate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/welcome.jsp" afterDir="false" />
+    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="Lab1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/userList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lab1/assignment1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/validate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/validate.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/welcome.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,7 +371,7 @@
       <workItem from="1621756912292" duration="4409000" />
       <workItem from="1621761375731" duration="434000" />
       <workItem from="1622351709356" duration="1730000" />
-      <workItem from="1622510290713" duration="639000" />
+      <workItem from="1622510290713" duration="1304000" />
     </task>
     <task id="LOCAL-00001" summary="HW Week8 Commit">
       <created>1619274649511</created>
@@ -427,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622353350934</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab1">
+      <created>1622511171337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622511171337</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +452,8 @@
     <MESSAGE value="HW Week11 Commit" />
     <MESSAGE value="HW Week12 Commit" />
     <MESSAGE value="HW Week13 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW Week13 Commit" />
+    <MESSAGE value="Lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
