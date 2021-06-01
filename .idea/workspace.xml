@@ -9,13 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week12 Commit">
+    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week13 Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/validate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/lab1/assignment2/welcome.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/productDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/productDetails.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/shop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/shop.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/userList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images/cart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -64,19 +68,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp" />
+      <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\java\com" />
       <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp\images\cart" />
       <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\webapp\WEB-INF\views" />
       <recent name="C:\Users\17291\IdeaProjects\2019211001000728LuoYang\src\main\java\com\LuoYang\dao" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.63">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -367,7 +375,8 @@
       <workItem from="1621756666295" duration="232000" />
       <workItem from="1621756912292" duration="4409000" />
       <workItem from="1621761375731" duration="434000" />
-      <workItem from="1622351709356" duration="1487000" />
+      <workItem from="1622351709356" duration="1730000" />
+      <workItem from="1622510290713" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="HW Week8 Commit">
       <created>1619274649511</created>
@@ -411,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621760474818</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW Week13 Commit">
+      <created>1622353350934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622353350934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +449,8 @@
     <MESSAGE value="HW Week8 Commit" />
     <MESSAGE value="HW Week11 Commit" />
     <MESSAGE value="HW Week12 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW Week12 Commit" />
+    <MESSAGE value="HW Week13 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week13 Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
