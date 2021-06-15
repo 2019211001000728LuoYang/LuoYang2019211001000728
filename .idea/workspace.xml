@@ -9,9 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="Lab2">
+    <list default="true" id="1e8ad417-a2fc-4d50-9bf3-a3fa623172ce" name="Default Changelist" comment="HW Week15 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/orderList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/orderList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/orderList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/2019211001000728LuoYang_war_exploded3/WEB-INF/views/admin/orderList.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -372,7 +373,9 @@
       <workItem from="1623074143871" duration="622000" />
       <workItem from="1623112026333" duration="1511000" />
       <workItem from="1623113562785" duration="77000" />
-      <workItem from="1623673065257" duration="1015000" />
+      <workItem from="1623673065257" duration="1091000" />
+      <workItem from="1623677218541" duration="496000" />
+      <workItem from="1623717533180" duration="3440000" />
     </task>
     <task id="LOCAL-00001" summary="HW Week8 Commit">
       <created>1619274649511</created>
@@ -472,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623113576821</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HW Week15 Commit">
+      <created>1623674147214</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623674147214</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +508,8 @@
     <MESSAGE value="Lab1" />
     <MESSAGE value="HW Week14 Commit" />
     <MESSAGE value="Lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2" />
+    <MESSAGE value="HW Week15 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Week15 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
